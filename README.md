@@ -2,7 +2,6 @@
 
 
 ![PyPI](https://img.shields.io/pypi/v/sqlalchemy_dremio.svg)
-![CI](https://github.com/narendrans/sqlalchemy_dremio/actions/workflows/dremio.yml/badge.svg)
 
 A SQLAlchemy dialect for Dremio via ODBC and Flight interfaces.
 
