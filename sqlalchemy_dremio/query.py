@@ -34,6 +34,7 @@ _type_map = {
     'TIMESTAMP': types.TIMESTAMP,
     'varchar': types.VARCHAR,
     'VARCHAR': types.VARCHAR,
+    'str': types.VARCHAR,
     'smallint': types.SMALLINT,
     'CHARACTER VARYING': types.VARCHAR,
     'object': types.VARCHAR
